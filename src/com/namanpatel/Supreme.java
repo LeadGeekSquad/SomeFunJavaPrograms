@@ -13,6 +13,15 @@ pulbic class Supreme {
 		private String streetName;
 		private String state;
 		private String country;
+			
+		
+		//Adding constructor
+		public Supreme(String name, String email, String phoneNumber, String streetName) {
+			this.name = name;
+			this.email = email;
+			this.phoneNumber = phoneNumber;
+			this.streetName = streetName
+		}
 
 		
 		//Will have to add the constructor below
