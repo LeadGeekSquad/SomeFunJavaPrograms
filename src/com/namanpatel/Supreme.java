@@ -14,5 +14,12 @@ pulbic class Supreme {
 		private String state;
 		private String country;	
 
+		
+		//Will have to add the constructor below
+
+		public Supreme() {
+		//put code here
+		}
+
   }
 }
