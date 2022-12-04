@@ -12,7 +12,6 @@ pulbic class Supreme {
 		private String phoneNumber;
 		private String streetName;
 		private String state;
-
 		private String country;	
 
 		
@@ -22,8 +21,6 @@ pulbic class Supreme {
 		//put code here
 		}
 
-		
-			
 		
 		//Adding constructor
 		public Supreme(String name, String email, String phoneNumber, String streetName) {
